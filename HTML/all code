@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>all product-fashion.in</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/css/fontawesome.min.css">
+</head>
+<body>
+<div class="header">
+
+
+    <div class="container">
+        <div class="navbar">
+            <div class="lodo">
+                <img src="f logo.jpg" width="125px">
+            </div>
+        </div>
+        <nav>
+            <ul id="MenuIteam">
+                <li><a href="">Home</a></li>
+                <li><a href="">product</a></li>
+                <li><a href="">about</a></li>
+                <li><a href="">contact</a></li>
+                <li><a href="">account</a></li>
+                <img src="th.jpg" width="30px" height="30px">
+                <img src="menuf.jpg"class="menu-icon" 
+                onclick="menutoggle()">
+            </ul>
+        </nav>
+        
+    </div>
+    
+</div>
+   
+
+<!-------featured products---->
+<div class="small-container">
+    <h2 class="tittle">featured product</h2>
+    <div class="row">
+       
+      
+        <div class="col-4">
+            <img src="1_4a42ee93-40dc-487c-a4d4-141360d68b66.webp">
+            
+            <h4>light-blue printed t-shirt</h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+            </div>
+            <p>$59.00</p>
+            <select>
+                <option>select size</option>
+                <option>XXL</option>
+                <option>XL</option>
+                <option>XL</option>
+                <option>L</option>
+                <option>S</option>
+            </select>
+            <input type="number" value="1">
+            <a href="" class="btn">Add To cart</a>
+        </div>
+        <div class="col-4">
+            <img src="71bcd9f7-4ddf-4e00-ab2c-f862d1a7bec2.jpg">
+            <h4>light-blue printed t-shirt</h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+            </div>
+            <p>$71.00</p>
+            <select>
+                <option>select size</option>
+                <option>XXL</option>
+                <option>XL</option>
+                <option>XL</option>
+                <option>L</option>
+                <option>S</option>
+            </select>
+            <input type="number" value="1">
+            <a href="" class="btn">Add To cart</a>
+        </div>
+
+        
+    </div>
+
+    <h2 class="tittle">latest product</h2>
+    <div class="row">
+       
+        <div class="col-4">
+            <img src="img1.jpg">
+            <h4>light-blue printed t-shirt</h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+            </div>
+            <p>$71.00</p>
+           
+            <select>
+                <option>select size</option>
+                <option>XXL</option>
+                <option>XL</option>
+                <option>XL</option>
+                <option>L</option>
+                <option>S</option>
+            </select>
+            <input type="number" value="1">
+            <a href="" class="btn">Add To cart</a>
+        </div>
+
+        <div class="col-4">
+            <img src="img2.jpg">
+            
+            <h4>light-blue printed t-shirt</h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+            </div>
+            <p>$59.00</p>
+            <select>
+                <option>select size</option>
+                <option>XXL</option>
+                <option>XL</option>
+                <option>XL</option>
+                <option>L</option>
+                <option>S</option>
+            </select>
+            <input type="number" value="1">
+            <a href="" class="btn">Add To cart</a>
+        </div>
+        <div class="col-4">
+            <img src="img3.jpg">
+            <h4>light-blue printed t-shirt</h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+            </div>
+            <p>$71.00</p>
+            <select>
+                <option>select size</option>
+                <option>XXL</option>
+                <option>XL</option>
+                <option>XL</option>
+                <option>L</option>
+                <option>S</option>
+            </select>
+            <input type="number" value="1">
+            <a href="" class="btn">Add To cart</a>
+        </div>
+        <div class="row">
+       
+            <div class="col-4">
+                <img src="img4.jpg">
+                <h4>light-blue printed t-shirt</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                </div>
+                <p>$71.00</p>
+                <select>
+                    <option>select size</option>
+                    <option>XXL</option>
+                    <option>XL</option>
+                    <option>XL</option>
+                    <option>L</option>
+                    <option>S</option>
+                </select>
+                <input type="number" value="1">
+                <a href="" class="btn">Add To cart</a>
+            </div>
+    
+            <div class="col-4">
+                <img src="img5.jpg">
+                
+                <h4>light-blue printed t-shirt</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                </div>
+                <p>$59.00</p>
+                <select>
+                    <option>select size</option>
+                    <option>XXL</option>
+                    <option>XL</option>
+                    <option>XL</option>
+                    <option>L</option>
+                    <option>S</option>
+                </select>
+                <input type="number" value="1">
+                <a href="" class="btn">Add To cart</a>
+            </div>
+            <div class="col-4">
+                <img src="img6.jpg">
+                <h4>light-blue printed t-shirt</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                </div>
+                <p>$71.00</p>
+                <select>
+                    <option>select size</option>
+                    <option>XXL</option>
+                    <option>XL</option>
+                    <option>XL</option>
+                    <option>L</option>
+                    <option>S</option>
+                </select>
+                <input type="number" value="1">
+                <a href="" class="btn">Add To cart</a>
+            </div>
+            
+    </div>
+    <div class="page-btn">
+        <span>1</span>
+        <span>2</span>
+        <span>3</span>
+        <span>4</span>
+        <span>&#8594</span>
+    </div>
+</div>
+<!-------offer------->
+<div class="offer">
+    <div class="small-comtainer">
+        <div class="row">
+            <div class="col-2">
+        <img src="lip.jpg"class="offer-img">
+            </div>
+            <div class="col-2">
+                <p>Exclusively Available on Fashion.in</p>
+                <h1>Matte lipstick</h1>
+                <small>Velvet lips, all-day wear—matte perfection in every swipe</small>
+
+                <a href="" class="btn">Buy Now &#8594</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+</div>
+
+<!--------footer------->
+<div class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="footer-col-1">
+                <h3>Download our App</h3>
+                <p>Download app for Android and ios mobile phone.</p>
+                <div class="app-logo">
+                    <img src="pg.jpg">
+                </div>
+            </div>
+            <div class="footer-col-2">
+                <img src="f logo.jpg">
+                <p>Effortless elegance, perfect for every occasion.</p>
+            </div>
+            <div class="footer-col-3">
+                <h3>use ful : links</h3>
+                <ul>
+                    <li>Coupons</li>
+                    <li>Blog post</li>
+                    <li>Return polics</li>
+                    <li>Join Affiliate</li>
+                </ul>
+            </div>
+            <div class="footer-col-4">
+                <h3>Follow us</h3>
+                <ul>
+                    <li>Facebook</li>
+                    <li>Twitter</li>
+                    <li>instagram</li>
+                    <li>youtube</li>
+                </ul>
+            </div>
+        </div>
+        
+    </div>
+</div>
+<!---------js for toggle menu---------->
+<script>
+   var MenuIteams = document.getElementById("MenuIteams");
+     
+     MeanuItems.style.maxheight="0px";
+
+     function menutoggle(){
+        if ( MeanuItems.style.maxheight=="0px")
+     {
+        MeanuItems.style.maxheight="200px"
+     }
+     else
+      {
+        MeanuItems.style.maxheight="0px";
+      }
+     
+     }
+</script>
+
+
+</body>
+</html>
+                
